@@ -2,7 +2,7 @@
 
 Requires the same hardware (essentially) as the [MatrixClock](https://github.com/smittytone/MatrixClock) project, ie. an imp001 and four 8x8 LED matrices connected by I2C.
 
-Here’s a [video demo](app.mov).
+![In Action](app.png)
 
 ## Hardware
 
