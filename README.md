@@ -2,6 +2,8 @@
 
 Requires the same hardware (essentially) as the [MatrixClock](https://github.com/smittytone/MatrixClock) project, ie. an imp001 and four 8x8 LED matrices connected by I2C.
 
+<video controls="controls" width="800" height="600" name="Twilio App" src="app.mov"></video>
+
 ## Hardware
 
 See the page linked above for wiring and parts info.
